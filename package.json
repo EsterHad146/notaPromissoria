@@ -1,0 +1,21 @@
+{
+  "name": "notapromissoria",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "archiver": "^7.0.1",
+    "express": "^5.1.0",
+    "extenso": "^2.1.0",
+    "multer": "^1.4.5-lts.2",
+    "numero-por-extenso": "^1.0.8",
+    "pdfkit": "^0.17.0",
+    "xlsx": "^0.18.5"
+  }
+}
